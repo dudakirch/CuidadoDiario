@@ -1,0 +1,36 @@
+# App "Cuidado Diário"
+
+## Onde está
+- Versão principal: GitHub Pages (repositório público `cuidado-diario` da Eduarda; ela mesma sobe os arquivos pelo site do GitHub). Endereço: https://SEU-USUARIO.github.io/cuidado-diario/ (preencher quando ela publicar).
+  - Arquivos: index.html, manifest.webmanifest, sw.js (offline), icon-192.png, icon-512.png, apple-touch-icon.png, README.md. Fonte no workspace: cuidado-diario/.
+  - Registros salvos só no celular (localStorage). Tem Backup (exportar/importar JSON) na aba Hábitos. Ela aceitou não sincronizar entre aparelhos.
+- Versão antiga no Claude: https://claude.ai/artifact/C4durmdiQkv49tccYh4s5N (salva na conta). "Compartilhar e virar app no celular" não funcionou para ela, por isso foi para o GitHub.
+- Ao mudar o app: alterar os dois (habitos/habitos.html e cuidado-diario/index.html) ou só o do GitHub, e entregar o index.html novo para ela subir por cima.
+
+## Metas (2/nov/2026)
+- Água: 1,8 L por dia, de 500 em 500 ml. A garrafa enche aos poucos.
+- Exercício físico: 3 a 5 dias por semana (mínimo 3, ideal 5). Sem tempo mínimo.
+- Frutas: 2 por dia (sem manhã/tarde).
+- Passar creme: TODO DIA ("Todo dia" + faixa seg a dom).
+- Cuidado com o rosto: 1x por semana, um botão só, sem alerta.
+
+## Lembretes
+- NÃO usar Google Agenda (ela pediu para remover; eventos apagados em 2/nov/2026).
+- App nativo iOS: ela achou que não compensa (precisa Mac/conta paga).
+- Sugerido: automações do app Atalhos do iPhone (Hora do Dia > Mostrar Notificação > Abrir URL).
+
+## Visual (versão atual)
+- Título no topo grande: "Cuidado diário".
+- Duas paletas em Hábitos > Paleta de cores:
+  - Verão (padrão): fundo manteiga #F6E7B4; água Bali Pool #037F71, exercício Dip at Twilight #AECFD0 (texto azul-marinho), frutas Baby Shower #EA5E86, creme Baby Lavender #F9D4F8, rosto Mint No Chip #DDF2B8; escuro Valentine Chocolate #422F0E.
+  - Peônia: Peony #FAD2E1, Burgundy #770523, Pistachio #D0D996, Fuchsia #D81A67, Blood Orange #DD4E28, fundo creme.
+- 14 cores e 26 ícones para novos hábitos.
+- Ilustrações planas recortadas à mão no canto de cada card. SEM textura.
+- Ao marcar algo: SÓ CONFETE. Personagem removida (ela achou horrível em todas as versões: corpo inteiro e retrato). Não propor personagem de novo.
+- SEM SOM.
+
+## Tom das frases
+Frase do topo muda todo dia. NUNCA mencionar falha/recomeço. Foco em manter sempre.
+
+## Recusado
+Textura de giz/granulado, estampas nos cards, fundo neutro, visual infantil, personagem (qualquer versão), fundo laranja forte, exercício em vermelho-tomate sobre o fundo manteiga, sons, eventos no Google Agenda, app nativo pago.
